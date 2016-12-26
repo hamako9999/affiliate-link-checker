@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "affiliate link checker",
+  "description": "This extension check a affiliate link in web page.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Check now!!"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
+
+
